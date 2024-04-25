@@ -1,0 +1,46 @@
+[{
+  "_id": 501,
+  "mentorName": "Amrit jain",
+  "mentorCity": "Ahemadabad",
+  "specialization": "Computer Science",
+  "salary": "300K",
+  "students": [
+    {
+      "$ref": "students",
+      "$id": 104
+    }
+  ],
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Mentor"
+},
+{
+  "_id": 502,
+  "mentorName": "Nimisha",
+  "mentorCity": "Mumbai",
+  "specialization": "Arts and Laws",
+  "salary": "800K",
+  "students": [
+    {
+      "$ref": "students",
+      "$id": 102
+    }
+  ],
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Mentor"
+},
+{
+  "_id": 503,
+  "mentorName": "Kailash Pandit",
+  "mentorCity": "Chennai",
+  "specialization": "Commerce",
+  "salary": "780K",
+  "students": [
+    {
+      "$ref": "students",
+      "$id": 101
+    },
+    {
+      "$ref": "students",
+      "$id": 103
+    }
+  ],
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Mentor"
+}]

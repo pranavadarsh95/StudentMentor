@@ -1,0 +1,56 @@
+[{
+  "_id": 102,
+  "name": "Amrit",
+  "city": "Delhi",
+  "college": "chandal params College",
+  "mentor": {
+    "_id": 502,
+    "mentorName": "Nimisha",
+    "mentorCity": "Mumbai",
+    "specialization": "Arts and Laws",
+    "salary": "800K"
+  },
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Student"
+},
+{
+  "_id": 101,
+  "name": "Anamika",
+  "city": "Hyderabad",
+  "college": "Aryan College",
+  "mentor": {
+    "_id": 503,
+    "mentorName": "Kailash Pandit",
+    "mentorCity": "Chennai",
+    "specialization": "Commerce",
+    "salary": "780K"
+  },
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Student"
+},
+{
+  "_id": 103,
+  "name": "Nisha",
+  "city": "Udaipur",
+  "college": "RNS College of Engineering",
+  "mentor": {
+    "_id": 503,
+    "mentorName": "Kailash Pandit",
+    "mentorCity": "Chennai",
+    "specialization": "Commerce",
+    "salary": "780K"
+  },
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Student"
+},
+{
+  "_id": 104,
+  "name": "Neha",
+  "city": "Noida",
+  "college": "Rama College of Commerce",
+  "mentor": {
+    "_id": 501,
+    "mentorName": "Amrit jain",
+    "mentorCity": "Ahemadabad",
+    "specialization": "Computer Science",
+    "salary": "300K"
+  },
+  "_class": "com.DummyProject.BirdEyeListing.Entities.Student"
+}]
